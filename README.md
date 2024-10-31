@@ -1,1 +1,3 @@
-# le-juste-prix
+# Le Juste Prix
+
+![Le Juste Prix](justePrix.png)
